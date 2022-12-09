@@ -1,3 +1,7 @@
+# My standard naming for input/test files
+input
+test
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
